@@ -5,4 +5,4 @@ com o tempo irei aprimorando e tendo um pouco mais de autonomia e irei criar alg
 
 Ps: Deixei as imagens e tudo que utilizei dentro do reposítorio.
 
-ass. Jefferson Monteiro
+feito por: Jefferson Monteiro
